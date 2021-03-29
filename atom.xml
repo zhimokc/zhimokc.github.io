@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhimokc.github.io</id>
     <title>zhimokc</title>
-    <updated>2021-03-29T05:20:34.384Z</updated>
+    <updated>2021-03-29T05:23:29.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhimokc.github.io"/>
     <link rel="self" href="https://zhimokc.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://zhimokc.github.io/images/avatar.png</logo>
     <icon>https://zhimokc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, zhimokc</rights>
+    <entry>
+        <title type="html"><![CDATA[第二篇心得]]></title>
+        <id>https://zhimokc.github.io/post/di-er-pian-xin-de/</id>
+        <link href="https://zhimokc.github.io/post/di-er-pian-xin-de/">
+        </link>
+        <updated>2021-03-29T05:22:37.000Z</updated>
+        <content type="html"><![CDATA[<p>#include&lt;stdio.h&gt;<br>
+int main(){<br>
+printf(&quot;hello world!&quot;);<br>
+return 0;<br>
+}</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[第一篇心得]]></title>
         <id>https://zhimokc.github.io/post/di-yi-pian-xin-de/</id>
